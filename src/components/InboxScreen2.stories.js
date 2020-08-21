@@ -23,4 +23,4 @@ export default {
 
 export const Default = () => <InboxScreen />;
 
-export const Error = () => <InboxScreen error="Something" />;
+export const Error = () => <InboxScreen error="Something else" />;
